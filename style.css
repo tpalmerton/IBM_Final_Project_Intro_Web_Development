@@ -51,6 +51,17 @@ body {
   flex-direction: row;
 }
 
+.contact_info a {
+  color: #1AEBC1;
+  text-decoration: none; /* Optional: Removes the underline */
+}
+
+.contact_info a:hover {
+  color: #fff;
+  text-decoration: underline; /* Optional: Adds underline on hover */
+}
+
+
 .contact_info img {
   width:25px;
   margin-right: 10px;
@@ -113,6 +124,41 @@ h2 {
   vertical-align: middle;
   margin: 5px;
 }
+
+#professional-experience {
+  display: flex;
+  align-items: center;
+}
+
+#professional-experience h1 {
+  font-size: 65px;
+  margin-top: 90px;
+  color: #429686;
+}
+
+#professional-experience p {
+  font-size: 25px;
+  color: rgb(128, 128, 128);
+  margin-top: 1cm;
+}
+
+#certifications-education {
+  display: flex;
+  align-items: center;
+}
+
+#certifications-education h1 {
+  font-size: 65px;
+  margin-top: 90px;
+  color: #429686;
+}
+
+#certifications-education ul {
+  font-size: 25px;
+  color: rgb(128, 128, 128);
+  margin-top: -1cm;
+}
+
 
 /* Skills */
 
