@@ -259,7 +259,7 @@ h2 {
 .popup button {
   background-color: #fff;
   border: 1px solid #429686;
-  color: #7600bc;
+  color: #429686;
   display: block;
   border-radius: 6px;
   text-align: center;
@@ -273,7 +273,7 @@ h2 {
 .popup button:hover {
   background-color: #fff;
   border: 2px solid #429686;
-  color: #7600bc;
+  color: #429686;
   display: block;
   font-weight: bolder;
   text-align: center;
@@ -305,7 +305,7 @@ fieldset {
 button {
   background-color: #fff;
   border: 1px solid #429686;
-  color: #7600bc;
+  color: #429686;
   display: block;
   border-radius: 6px;
   text-align: center;
